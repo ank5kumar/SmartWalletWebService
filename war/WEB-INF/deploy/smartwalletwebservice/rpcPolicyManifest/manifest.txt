@@ -1,0 +1,3 @@
+# Module smartwalletwebservice
+# RPC service class, partial path of RPC policy file
+com.smartwallet.client.GreetingService, E1A08716B3F911D675DBE4B13195D2EF.gwt.rpc

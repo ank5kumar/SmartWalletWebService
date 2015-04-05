@@ -1,0 +1,2 @@
+serviceClass: com.smartwallet.client.GreetingService
+path: E1A08716B3F911D675DBE4B13195D2EF.gwt.rpc
